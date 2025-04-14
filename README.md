@@ -67,3 +67,15 @@ Me chamo Maria Eduarda Ferreira, tenho 18 anos e sou natural de São Paulo.Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <br/>
+
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madufrm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+
+</p>
+
