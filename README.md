@@ -70,11 +70,7 @@ Me chamo Maria Eduarda Ferreira, tenho 18 anos e sou natural de São Paulo.Atual
 
 
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 
 
